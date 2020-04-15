@@ -10,3 +10,4 @@ def Proxy_on():
 Proxy_on()
 
 # Thanks to Mahmoud Al-Nafei on Stackoverflow
+# If the network service isn't named just "Ethernet", you may need to parse networksetup -listallnetworkservices or -listnetworkserviceorder to get the correct name.
